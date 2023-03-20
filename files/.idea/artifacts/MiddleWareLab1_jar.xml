@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MiddleWareLab1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MiddleWareLab1_jar</output-path>
+    <root id="archive" name="MiddleWareLab1.jar">
+      <element id="module-output" name="MiddleWareLab1" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../maven/repository/org/apache/activemq/activemq-all/5.16.3/activemq-all-5.16.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../maven/repository/com/alibaba/fastjson2/fastjson2/2.0.23/fastjson2-2.0.23.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
